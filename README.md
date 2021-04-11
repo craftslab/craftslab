@@ -2,5 +2,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=craftslab.craftslab)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=craftslab&count_private=false&show_icons=true&theme=default" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftslab&theme=default&hide=html" />
+![craftslab's repository stats](https://github-readme-stats.vercel.app/api?username=craftslab&theme=dark&show_icons=true&count_private=false)
+
+![craftslab's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=craftslab&theme=dark&hide=html)
